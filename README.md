@@ -145,6 +145,7 @@ using or sharing the final information.
        ↓
 📄 Final Quotation
 
+---
 
 🗂️ Project Structure
 📦 Quotation Generator
