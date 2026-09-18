@@ -131,23 +131,7 @@ quotation information.
 
 ---
 
-## 👀 Quotation Preview
-
-The preview page provides a dedicated view for checking the quotation before
-using or sharing the final information.
-
-```text
-🧾 Quotation Data
-       ↓
-📝 Edit Quotation
-       ↓
-👀 Preview
-       ↓
-📄 Final Quotation
-
----
-
-🗂️ Project Structure
+## 🗂️ Project Structure
 📦 Quotation Generator
 │
 ├── 📁 src
@@ -180,3 +164,19 @@ using or sharing the final information.
 │   └── ⚙️ config.jsonc
 │
 └── 📄 README.md
+
+---
+
+## 👀 Quotation Preview
+
+The preview page provides a dedicated view for checking the quotation before
+using or sharing the final information.
+
+```text
+🧾 Quotation Data
+       ↓
+📝 Edit Quotation
+       ↓
+👀 Preview
+       ↓
+📄 Final Quotation
