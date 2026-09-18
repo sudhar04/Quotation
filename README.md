@@ -182,5 +182,5 @@ using or sharing the final information.
 📝 Edit Quotation
        ↓
 👀 Preview
-       ↓
+ ...      ↓
 📄 Final Quotation
