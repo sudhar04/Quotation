@@ -144,3 +144,38 @@ using or sharing the final information.
 👀 Preview
        ↓
 📄 Final Quotation
+
+
+🗂️ Project Structure
+📦 Quotation Generator
+│
+├── 📁 src
+│   │
+│   ├── 📁 api
+│   │   └── 🔗 API functionality
+│   │
+│   ├── 📁 components
+│   │   └── 🧩 Reusable UI components
+│   │
+│   ├── 📁 hooks
+│   │   └── 🪝 Custom React hooks
+│   │
+│   ├── 📁 lib
+│   │   └── ⚙️ Application utilities
+│   │
+│   ├── 📁 pages
+│   │   ├── 📊 Dashboard.jsx
+│   │   ├── 📝 Editor.jsx
+│   │   ├── 🔒 ForgotPassword.jsx
+│   │   ├── 🔑 Login.jsx
+│   │   ├── 🛡️ OAuthConsent.jsx
+│   │   ├── 👀 Preview.jsx
+│   │   ├── 📝 Register.jsx
+│   │   └── 🔄 ResetPassword.jsx
+│   │
+│   └── 📄 App.jsx
+│
+├── 📁 base44
+│   └── ⚙️ config.jsonc
+│
+└── 📄 README.md
