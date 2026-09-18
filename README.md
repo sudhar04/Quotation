@@ -132,10 +132,11 @@ quotation information.
 ---
 
 ## 🗂️ Project Structure
+
+```text
 📦 Quotation Generator
 │
 ├── 📁 src
-│   │
 │   ├── 📁 api
 │   │   └── 🔗 API functionality
 │   │
@@ -163,9 +164,12 @@ quotation information.
 ├── 📁 base44
 │   └── ⚙️ config.jsonc
 │
+├── 📁 assets
+│   └── 🖼️ Project screenshots
+│
 └── 📄 README.md
 
----
+
 
 ## 👀 Quotation Preview
 
