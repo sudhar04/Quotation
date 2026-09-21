@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_APP_URL">
+  <a href="https://quotation-generator-app.base44.app">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Application-6C63FF?style=for-the-badge" />
   </a>
 </p>
